@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="MTI">
+    <Package name="Main">
+        <Key ID="STR_MTI_Main_URL">
+            <English>https://discord.gg/Pu2gdBd7Te/</English>
+        </Key>
+    </Package>
+</Project>

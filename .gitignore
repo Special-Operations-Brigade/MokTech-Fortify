@@ -1,0 +1,11 @@
+# IDEA stuff
+.idea/
+*.iml
+
+\.vscode/launch.json
+out/
+\.vscode/settings\.json
+
+*.code-workspace
+
+*.png
