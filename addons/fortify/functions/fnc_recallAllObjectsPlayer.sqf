@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_recallAllObjectsPlayer
+Function: mti_fortify_fnc_recallAllObjectsPlayer
 
 Description:
     Recalls all objects placed from player backpack
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [ace_player] call mti_fortify_fortify_fnc_recallAllObjectsPlayer;
+        [ace_player] call mti_fortify_fnc_recallAllObjectsPlayer;
     (end)
 
 Author:

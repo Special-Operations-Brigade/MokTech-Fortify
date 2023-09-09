@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_deployCanceled
+Function: mti_fortify_fnc_deployCanceled
 
 Description:
     Resets values if deployment was canceled
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_deployCanceled;
+        [] call mti_fortify_fnc_deployCanceled;
     (end)
 
 Author:

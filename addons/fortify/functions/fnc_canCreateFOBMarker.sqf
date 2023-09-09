@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_canCreateFOBMarker
+Function: mti_fortify_fnc_canCreateFOBMarker
 
 Description:
     Checks whether an FOB marker can be deployed from given object.
@@ -15,7 +15,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_canCreateFOBMarker;
+        [] call mti_fortify_fnc_canCreateFOBMarker;
     (end)
 
 Author:

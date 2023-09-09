@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_saveComposition
+Function: mti_fortify_fnc_saveComposition
 
 Description:
     Handles saving nearby deployed objects into a composition
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_saveComposition;
+        [...] call mti_fortify_fnc_saveComposition;
     (end)
 
 Author:

@@ -11,7 +11,7 @@
  * Cost <NUMBER>
  *
  * Example:
- * ["Example_Preset", "Sandbag"] call mti_fortify_fortify_fnc_getCost
+ * ["Example_Preset", "Sandbag"] call mti_fortify_fnc_getCost
  *
  * Public: Yes
  */

@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_addContainerActions
+Function: mti_fortify_fnc_addContainerActions
 
 Description:
     Adds ace interactions to container.
@@ -15,7 +15,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_addContainerActions;
+        [] call mti_fortify_fnc_addContainerActions;
     (end)
 
 Author:

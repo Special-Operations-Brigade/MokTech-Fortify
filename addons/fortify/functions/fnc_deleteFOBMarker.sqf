@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_deleteFOBMarker
+Function: mti_fortify_fnc_deleteFOBMarker
 
 Description:
     Delete the FOB marker of the given target.
@@ -15,7 +15,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_deleteFOBMarker;
+        [] call mti_fortify_fnc_deleteFOBMarker;
     (end)
 
 Author:

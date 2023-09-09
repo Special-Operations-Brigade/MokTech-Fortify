@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getCompositionConfig
+Function: mti_fortify_fnc_getCompositionConfig
 
 Description:
     Helper function to get config path to given composition.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        ["Example_Composition"] call mti_fortify_fortify_fnc_getCompositionConfig;
+        ["Example_Composition"] call mti_fortify_fnc_getCompositionConfig;
     (end)
 
 Author:

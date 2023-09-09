@@ -10,7 +10,7 @@
  * Handled <BOOL>
  *
  * Example:
- * [5] call mti_fortify_fortify_fnc_handleScrollWheel
+ * [5] call mti_fortify_fnc_handleScrollWheel
  *
  * Public: No
  */

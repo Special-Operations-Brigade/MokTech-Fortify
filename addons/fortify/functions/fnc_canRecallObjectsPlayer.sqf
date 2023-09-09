@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_canRecallObjectsPlayer
+Function: mti_fortify_fnc_canRecallObjectsPlayer
 
 Description:
     Checks whether player has any objects to recall to the backpack.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [ace_player] call mti_fortify_fortify_fnc_canRecallObjectsPlayer;
+        [ace_player] call mti_fortify_fnc_canRecallObjectsPlayer;
     (end)
 
 Author:

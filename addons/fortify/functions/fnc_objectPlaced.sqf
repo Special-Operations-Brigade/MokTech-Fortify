@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_objectPlaced
+Function: mti_fortify_fnc_objectPlaced
 
 Description:
     Handles object being placed, server broadcast
@@ -17,7 +17,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_objectPlaced;
+        [] call mti_fortify_fnc_objectPlaced;
     (end)
 
 Author:

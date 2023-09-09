@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_updateObjectCount
+Function: mti_fortify_fnc_updateObjectCount
 
 Description:
     Updates deployedObjects variable on the container.
@@ -17,7 +17,7 @@ Return Value:
 
 Example:
     (begin example)
-        [containerA, "Example_Preset", "Sandbag", +1] call mti_fortify_fortify_fnc_updateObjectCount;
+        [containerA, "Example_Preset", "Sandbag", +1] call mti_fortify_fnc_updateObjectCount;
     (end)
 
 Author:

@@ -1,10 +1,10 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_objectsGrabber
+Function: mti_fortify_fnc_objectsGrabber
 
 Description:
-    Helper function to grab nearby objects and save them in format compatible with mti_fortify_fortify_fnc_objectsMapper.
+    Helper function to grab nearby objects and save them in format compatible with mti_fortify_fnc_objectsMapper.
 	Grabbed objects are also exported to clipboard for quick saving.
 
 Arguments:
@@ -17,7 +17,7 @@ Return Value:
 
 Example:
     (begin example)
-        [position ACE_player,150] call mti_fortify_fortify_fnc_objectsGrabber;
+        [position ACE_player,150] call mti_fortify_fnc_objectsGrabber;
     (end)
 
 Author:

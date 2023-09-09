@@ -10,7 +10,7 @@
  * Actions <ARRAY>
  *
  * Example:
- * [player] call mti_fortify_fortify_fnc_addActions
+ * [player] call mti_fortify_fnc_addActions
  *
  * Public: No
  */

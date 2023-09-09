@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_addActionToObject
+Function: mti_fortify_fnc_addActionToObject
 
 Description:
     Adds action to remove and edit object after it was deployed.
@@ -16,7 +16,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_addActionToObject;
+        [] call mti_fortify_fnc_addActionToObject;
     (end)
 
 Author:

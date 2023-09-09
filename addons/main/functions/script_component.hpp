@@ -1,1 +1,1 @@
-#include "\z\mti_fortify\addons\main\script_component.hpp"
+#include "\z\mti\addons\main\script_component.hpp"

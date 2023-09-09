@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="MTI">
     <Package name="Fortify">
-        <Key ID="STR_MTI_Fortify_Fortify_Fortify">
+        <Key ID="STR_MTI_fortify_Fortify">
             <English>Fortify</English>
             <German>Verstärken</German>
             <Japanese>要塞</Japanese>
@@ -12,7 +12,7 @@
             <Russian>Фортификация</Russian>
             <Turkish>Inşa Etme</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_Budget">
+        <Key ID="STR_MTI_fortify_Budget">
             <English>Budget</English>
             <German>Budget</German>
             <Japanese>予算</Japanese>
@@ -23,7 +23,7 @@
             <Russian>Бюджет</Russian>
             <Turkish>Bütçe</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_addToolItem">
+        <Key ID="STR_MTI_fortify_addToolItem">
             <English>Auto add fortify item</English>
             <German>Füge das Bauwerkzeug automatisch hinzu</German>
             <Japanese>自動的に要塞ツールを追加</Japanese>
@@ -34,7 +34,7 @@
             <Russian>Автоматически добавлять Инструмент строителя</Russian>
             <Turkish>Otomatik olarak inşa etme aletini ekle</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_moduleDescription">
+        <Key ID="STR_MTI_fortify_moduleDescription">
             <English>Initializes the Fortify system, with some basic parameters.&lt;br/&gt;Presets are pulled from configFile and missionConfigFile, see wiki for format.</English>
             <Polish>Inicjalizuje system fortyfikacji, z podstawowymi parametrami.&lt;br/&gt;Domyślne ustawienia są załadowane z configFile oraz missionConfigFile, odwiedź wiki aby znaleźć format</Polish>
             <Russian>Инициализирует систему фортификации с некоторыми базовыми параметрами.&lt;br/&gt;Предустановки взяты из configFile и missionConfigFile, формат смотри на wiki.</Russian>
@@ -44,7 +44,7 @@
             <Chinesesimp>使用一些基本参数初始化设防系统。&lt;br/&gt;预设从 configFile 和 missionConfigFile 中提取，参见 wiki 的格式。</Chinesesimp>
             <Korean>기본 파라미터와 함께 요새화 시스템을 활성화합니다&lt;br/&gt;configFile 과 missionConfigFile에서 프리셋을 뽑아옵니다, 포맷은 위키를 참조하십시오.</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_rotate">
+        <Key ID="STR_MTI_fortify_rotate">
             <English>Rotate</English>
             <German>Drehen</German>
             <Spanish>Girar</Spanish>
@@ -61,7 +61,7 @@
             <Chinese>旋轉</Chinese>
             <Turkish>Yönlendir</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_Confirm">
+        <Key ID="STR_MTI_fortify_Confirm">
             <English>Confirm Deployment</English>
             <German>Aufbauen</German>
             <Russian>Подтвердить размещение</Russian>
@@ -78,7 +78,7 @@
             <Chinese>確認佈署</Chinese>
             <Turkish>Yerleştirmeyi Onayla</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_buildLocationModule">
+        <Key ID="STR_MTI_fortify_buildLocationModule">
             <English>Fortify: Limit Build Area</English>
             <German>Verstärken: Beschränke Baubereich</German>
             <Japanese>要塞: 構築制限エリア</Japanese>
@@ -89,7 +89,7 @@
             <Turkish>Inşa Etme : Bölgede Inşa Etmeyi Limitle</Turkish>
             <Korean>요새화: 건설 영역 제한</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingsCategory">
+        <Key ID="STR_MTI_fortify_settingsCategory">
             <English>MokTech Industries - Fortify</English>
             <German>MokTech Industries - Verstärken</German>
             <Chinese>MokTech Industries - 要塞</Chinese>
@@ -100,7 +100,7 @@
             <Turkish>MokTech Industries - Inşa Etme</Turkish>
             <Korean>MokTech Industries - 요새화</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHint">
+        <Key ID="STR_MTI_fortify_settingHint">
             <English>Show budget updates</English>
             <German>Zeige Budgetveränderungen</German>
             <Chinese>顯示預算更新</Chinese>
@@ -111,7 +111,7 @@
             <Turkish>Bütçe güncellenmelerini göster</Turkish>
             <Korean>비용 업데이트 표시</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintDesc">
+        <Key ID="STR_MTI_fortify_settingHintDesc">
             <English>Controls when budget update hints are shown</English>
             <German>Bestimmt wann Budgetveränderungen angezeigt werden</German>
             <Chinese>決定預算變更時是否會顯示提示</Chinese>
@@ -122,7 +122,7 @@
             <Turkish>Bütçe güncellenince bilgi verilip verilmeyeceğini kontrol eder.</Turkish>
             <Korean>어떤 행동을 취할 때 비용이 표시되는지를 결정합니다</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintNone">
+        <Key ID="STR_MTI_fortify_settingHintNone">
             <English>Never show</English>
             <German>Niemals anzeigen</German>
             <Chinese>永不顯示</Chinese>
@@ -133,7 +133,7 @@
             <Turkish>Asla Gösterme</Turkish>
             <Korean>안 보여줌</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintHasTool">
+        <Key ID="STR_MTI_fortify_settingHintHasTool">
             <English>Has fortify tool</English>
             <German>Hat Bauewerkzeug</German>
             <Chinese>有要塞工具</Chinese>
@@ -144,7 +144,7 @@
             <Turkish>Insa Etme Aleti Olanlara Göster</Turkish>
             <Korean>요새화 도구를 들고 있을 때</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintEveryone">
+        <Key ID="STR_MTI_fortify_settingHintEveryone">
             <English>Always show</English>
             <German>Immer anzeigen</German>
             <Chinese>總是顯示</Chinese>
@@ -155,64 +155,64 @@
             <Turkish>Her Zaman Göster</Turkish>
             <Korean>항상 보여줌</Korean>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHint_timeCostCoefficient">
+        <Key ID="STR_MTI_fortify_settingHint_timeCostCoefficient">
             <English>Time-Cost Coefficient</English>
             <Chinesesimp>时间—成本系数</Chinesesimp>
             <Korean>시간-가격 계수</Korean>
             <German>Zeit-Kosten-Koeffizient</German>
             <Japanese>時間コスト係数</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintDesc_timeCostCoefficient">
+        <Key ID="STR_MTI_fortify_settingHintDesc_timeCostCoefficient">
             <English>Coefficient used to determine time to build structure.&lt;br/&gt;A in (Ax + b) min c where x is cost of object</English>
             <Chinesesimp>用于确定建造建筑所需时间的系数。&lt;br/&gt;A是 Ax+b中的一个参数，其中x是物体的成本</Chinesesimp>
             <Korean>건축물을 지을 때 걸리는 시간을 계수를 적용하여 계산합니다.</Korean>
             <German>Koeffizient zur Bestimmung der Bauzeit &lt;br/&gt;A in (Ax + b) min c, wobei x die Kosten des Objekts sind.</German>
             <Japanese>建造する時間を決定するために使用される係数。&lt;br/&gt;計算式はAx + bです。この係数はAであり、xは建造物のコストです。</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHint_timeMin">
+        <Key ID="STR_MTI_fortify_settingHint_timeMin">
             <English>Minimum Build Time</English>
             <Chinesesimp>最短建造时间</Chinesesimp>
             <Korean>최소 건축 시간</Korean>
             <German>Minimale Bauzeit</German>
             <Japanese>建造に掛かる最小の時間</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintDesc_timeMin">
+        <Key ID="STR_MTI_fortify_settingHintDesc_timeMin">
             <English>Minimum time to build any structure.&lt;br/&gt;b in (Ax + b) min c where x is cost of object</English>
             <Chinesesimp>建造任何建筑的最短时间。&lt;br/&gt;b是 Ax+b中的一个参数，其中x是物体的成本</Chinesesimp>
             <Korean>건축물을 지을 때 걸리는 최소 시간을 계수를 적용하여 계산합니다.</Korean>
             <German>Mindestzeit für den Bau eines beliebigen Bauwerks.&lt;br/&gt;b in (Ax + b) min c, wobei x die Kosten des Objekts sind.</German>
             <Japanese>建造に掛かる最小の時間。&lt;br/&gt;計算式はAx + bです。この時間はbであり、xは建造物のコストです。</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHint_timeMax">
+        <Key ID="STR_MTI_fortify_settingHint_timeMax">
             <English>Maximum Build Time</English>
             <German>Maximale Bauzeit</German>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_settingHintDesc_timeMax">
+        <Key ID="STR_MTI_fortify_settingHintDesc_timeMax">
             <English>Maximum time to build any structure.&lt;br/&gt;c in (Ax + b) min c where x is cost of object</English>
             <German>Maximalzeit für den Bau eines beliebigen Bauwerks.&lt;br/&gt;c in (Ax + b) min c, wobei x die Kosten des Objekts sind.</German>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_progressBarTitle">
+        <Key ID="STR_MTI_fortify_progressBarTitle">
             <English>Building</English>
             <Chinesesimp>建造</Chinesesimp>
             <Korean>건설 중</Korean>
             <German>Wird gebaut</German>
             <Japanese>建造</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_markObjectsOnMap">
+        <Key ID="STR_MTI_fortify_markObjectsOnMap">
             <English>Create map markers</English>
             <Chinesesimp>创建地图标记</Chinesesimp>
             <Korean>지도에 마커 생성</Korean>
             <German>Kartenmarkierungen erstellen</German>
             <Japanese>マップマーカーを生成する</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_markObjectsOnMapDesc">
+        <Key ID="STR_MTI_fortify_markObjectsOnMapDesc">
             <English>Create map markers that look like terrain buildings when static fortifications are placed</English>
             <Chinesesimp>在放置静态防御工事时，创建看起来像地形建筑的地图标记</Chinesesimp>
             <Korean>건축물을 건설하고 나서 지도에 마커를 생성합니다</Korean>
             <German>Erstellen von Kartenmarkierungen, die wie Gebäude im Gelände aussehen, wenn statische Befestigungen platziert werden</German>
             <Japanese>静的な建築物が配置されたときに地形の建物のように見えるマップマーカーを生成します</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_markObjectsOnMapNone">
+        <Key ID="STR_MTI_fortify_markObjectsOnMapNone">
             <English>Never</English>
             <Czech>Nikdy</Czech>
             <German>Nie</German>
@@ -228,14 +228,14 @@
             <Chinesesimp>永不</Chinesesimp>
             <Turkish>Asla</Turkish>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_markObjectsOnMapFriendly">
+        <Key ID="STR_MTI_fortify_markObjectsOnMapFriendly">
             <English>For units friendly to the placer</English>
             <Chinesesimp>对放置者友军单位</Chinesesimp>
             <Korean>아군 유닛이 지은 건물만</Korean>
             <German>Für, zum Erbauer, verbündete Einheiten.</German>
             <Japanese>設置者の友軍に</Japanese>
         </Key>
-        <Key ID="STR_MTI_Fortify_Fortify_markObjectsOnMapEveryone">
+        <Key ID="STR_MTI_fortify_markObjectsOnMapEveryone">
             <English>For everyone</English>
             <Chinese>所有人</Chinese>
             <French>Pour tous</French>

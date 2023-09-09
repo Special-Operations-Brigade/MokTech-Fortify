@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_interaction_addCompositionActions
+Function: mti_fortify_fnc_interaction_addCompositionActions
 
 Description:
     Adds composition actions to suitable containers in player's vicinity.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [0] call mti_fortify_fortify_fnc_interaction_addCompositionActions;
+        [0] call mti_fortify_fnc_interaction_addCompositionActions;
     (end)
 
 Author:

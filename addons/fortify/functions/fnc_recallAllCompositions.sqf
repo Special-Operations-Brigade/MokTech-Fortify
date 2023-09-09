@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_recallAllCompositions
+Function: mti_fortify_fnc_recallAllCompositions
 
 Description:
     Recalls all objects deployed from given container through compositions.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_recallAllCompositions;
+        [...] call mti_fortify_fnc_recallAllCompositions;
     (end)
 
 Author:

@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [""] call mti_fortify_fortify_fnc_handleChatCommand
+ * [""] call mti_fortify_fnc_handleChatCommand
  *
  * Public: No
  */

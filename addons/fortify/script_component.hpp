@@ -1,6 +1,6 @@
 #define COMPONENT fortify
 #define COMPONENT_BEAUTIFIED Fortify
-#include "\z\mti_fortify\addons\main\script_mod.hpp"
+#include "\z\mti\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -14,7 +14,7 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_FORTIFY
 #endif
 
-#include "\z\mti_fortify\addons\main\script_macros.hpp"
+#include "\z\mti\addons\main\script_macros.hpp"
 
 #define CONTAINER_SEARCH_RADIUS 150
 #define CONTAINER_SEARCH_TIMEOUT 5.0

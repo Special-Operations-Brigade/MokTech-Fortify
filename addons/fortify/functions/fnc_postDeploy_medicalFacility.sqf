@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_postDeploy_medicalFacility
+Function: mti_fortify_fnc_postDeploy_medicalFacility
 
 Description:
     Handles setting up certain objects as medical facilities post-deploy with Fortify.
@@ -18,7 +18,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_postDeploy_medicalFacility;
+        [...] call mti_fortify_fnc_postDeploy_medicalFacility;
     (end)
 
 Author:

@@ -11,7 +11,7 @@
  * None
  *
  * Example:
- * [containerA, -250] call mti_fortify_fortify_fnc_updateCompositionBudget
+ * [containerA, -250] call mti_fortify_fnc_updateCompositionBudget
  *
  * Public: Yes
  */

@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_recallAllObjects
+Function: mti_fortify_fnc_recallAllObjects
 
 Description:
     Recalls all preset objects deployed from given container, returning budget.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_recallAllObjects;
+        [...] call mti_fortify_fnc_recallAllObjects;
     (end)
 
 Author:

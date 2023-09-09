@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getPresetConfig
+Function: mti_fortify_fnc_getPresetConfig
 
 Description:
     Helper function to get config path to given preset.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        ["Example_Preset"] call mti_fortify_fortify_fnc_getPresetConfig;
+        ["Example_Preset"] call mti_fortify_fnc_getPresetConfig;
     (end)
 
 Author:

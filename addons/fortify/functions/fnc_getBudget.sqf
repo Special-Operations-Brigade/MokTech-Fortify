@@ -11,7 +11,7 @@
  * Budget <NUMBER>
  *
  * Example:
- * [cursorTarget, "Example_Preset"] call mti_fortify_fortify_fnc_getBudget
+ * [cursorTarget, "Example_Preset"] call mti_fortify_fnc_getBudget
  *
  * Public: Yes
  */

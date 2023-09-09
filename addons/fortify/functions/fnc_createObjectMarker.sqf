@@ -11,7 +11,7 @@
  * None
  *
  * Example:
- * [player, cursorObject] call mti_fortify_fortify_fnc_createObjectMarker
+ * [player, cursorObject] call mti_fortify_fnc_createObjectMarker
  *
  * Public: No
  */

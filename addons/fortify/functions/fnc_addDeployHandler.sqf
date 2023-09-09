@@ -12,7 +12,7 @@
  * None
  *
  * Example:
- * [{(_this select 0) getVariable ["isBobTheBuilder", false]}] call mti_fortify_fortify_fnc_addDeployHandler
+ * [{(_this select 0) getVariable ["isBobTheBuilder", false]}] call mti_fortify_fnc_addDeployHandler
  *
  * Public: Yes
  */

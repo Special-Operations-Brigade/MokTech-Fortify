@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getAvailablePresets
+Function: mti_fortify_fnc_getAvailablePresets
 
 Description:
     Returns available presets/containers in area (and from backpack)
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [ACE_player] call mti_fortify_fortify_fnc_getAvailablePresets;
+        [ACE_player] call mti_fortify_fnc_getAvailablePresets;
     (end)
 
 Author:

@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_createFOBMarker
+Function: mti_fortify_fnc_createFOBMarker
 
 Description:
     Creates a FOB marker on the given target's position.
@@ -15,7 +15,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_createFOBMarker;
+        [] call mti_fortify_fnc_createFOBMarker;
     (end)
 
 Author:

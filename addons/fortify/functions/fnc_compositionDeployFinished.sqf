@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_compositionDeployFinished
+Function: mti_fortify_fnc_compositionDeployFinished
 
 Description:
     Handles placing the composition after placement, runs post-deploy handlers and triggers events.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_compositionDeployFinished;
+        [] call mti_fortify_fnc_compositionDeployFinished;
     (end)
 
 Author:

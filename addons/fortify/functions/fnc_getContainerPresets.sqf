@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getContainerPresets
+Function: mti_fortify_fnc_getContainerPresets
 
 Description:
     Returns a hashmap of all the given containers presets and the attached budget.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [cursorTarget] call mti_fortify_fortify_fnc_getContainerPresets;
+        [cursorTarget] call mti_fortify_fnc_getContainerPresets;
     (end)
 
 Author:

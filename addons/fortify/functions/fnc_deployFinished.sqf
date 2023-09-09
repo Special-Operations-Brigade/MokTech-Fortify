@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_deployFinished
+Function: mti_fortify_fnc_deployFinished
 
 Description:
     Deploys the object after placement, runs post-deploy handlers and triggers events
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_deployFinished;
+        [] call mti_fortify_fnc_deployFinished;
     (end)
 
 Author:

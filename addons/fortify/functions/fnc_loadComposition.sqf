@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_loadComposition
+Function: mti_fortify_fnc_loadComposition
 
 Description:
     Handles loading a composition from a save container.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_loadComposition;
+        [...] call mti_fortify_fnc_loadComposition;
     (end)
 
 Author:

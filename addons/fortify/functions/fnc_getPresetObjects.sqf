@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getPresetObjects
+Function: mti_fortify_fnc_getPresetObjects
 
 Description:
     Returns all of a preset's objects, costs and limits
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        ["Example_Preset"] call mti_fortify_fortify_fnc_getPresetObjects;
+        ["Example_Preset"] call mti_fortify_fnc_getPresetObjects;
     (end)
 
 Author:

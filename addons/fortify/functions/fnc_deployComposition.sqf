@@ -12,7 +12,7 @@
  * None
  *
  * Example:
- * [player, player, [containerA, "Example_Preset", "Land_BagBunker_Small_F"]] call mti_fortify_fortify_fnc_deployComposition
+ * [player, player, [containerA, "Example_Preset", "Land_BagBunker_Small_F"]] call mti_fortify_fnc_deployComposition
  *
  * Public: No
  */

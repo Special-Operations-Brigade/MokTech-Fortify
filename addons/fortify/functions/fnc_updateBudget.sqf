@@ -12,7 +12,7 @@
  * None
  *
  * Example:
- * [containerA, "Example_Preset", -250] call mti_fortify_fortify_fnc_updateBudget
+ * [containerA, "Example_Preset", -250] call mti_fortify_fnc_updateBudget
  *
  * Public: Yes
  */

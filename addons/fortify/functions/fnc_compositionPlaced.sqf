@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_compositionPlaced
+Function: mti_fortify_fnc_compositionPlaced
 
 Description:
     Handles composition being placed, server-side broadcast
@@ -19,7 +19,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_compositionPlaced;
+        [] call mti_fortify_fnc_compositionPlaced;
     (end)
 
 Author:

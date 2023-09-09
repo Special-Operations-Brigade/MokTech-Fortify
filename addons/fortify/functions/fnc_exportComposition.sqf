@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_exportComposition
+Function: mti_fortify_fnc_exportComposition
 
 Description:
     Exports the given composition to clipboard.
@@ -15,7 +15,7 @@ Return Value:
 
 Example:
     (begin example)
-        [ace_player] call mti_fortify_fortify_fnc_exportComposition;
+        [ace_player] call mti_fortify_fnc_exportComposition;
     (end)
 
 Author:

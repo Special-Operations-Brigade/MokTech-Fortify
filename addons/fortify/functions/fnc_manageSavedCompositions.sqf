@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_manageSavedCompositions
+Function: mti_fortify_fnc_manageSavedCompositions
 
 Description:
     Handles the dialog to rename/remove saved compositions.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [] call mti_fortify_fortify_fnc_manageSavedCompositions;
+        [] call mti_fortify_fnc_manageSavedCompositions;
     (end)
 
 Author:

@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [logic] call mti_fortify_fortify_fnc_buildLocationModule
+ * [logic] call mti_fortify_fnc_buildLocationModule
  *
  * Public: No
  */

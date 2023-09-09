@@ -11,7 +11,7 @@
  * Can Fortify <BOOL>
  *
  * Example:
- * [player] call mti_fortify_fortify_fnc_canFortify
+ * [player] call mti_fortify_fnc_canFortify
  *
  * Public: Yes
  */

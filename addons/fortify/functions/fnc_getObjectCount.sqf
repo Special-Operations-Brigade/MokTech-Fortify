@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_getObjectCount
+Function: mti_fortify_fnc_getObjectCount
 
 Description:
     Returns how often given object has already been deployed from a container.
@@ -16,7 +16,7 @@ Return Value:
 
 Example:
     (begin example)
-        [cursorTarget, "Example_Preset", "Sandbag"] call mti_fortify_fortify_fnc_getObjectCount;
+        [cursorTarget, "Example_Preset", "Sandbag"] call mti_fortify_fnc_getObjectCount;
     (end)
 
 Author:

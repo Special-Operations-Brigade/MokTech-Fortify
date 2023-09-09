@@ -10,7 +10,7 @@
  * Budget <NUMBER>
  *
  * Example:
- * [cursorTarget] call mti_fortify_fortify_fnc_getCompositionBudget
+ * [cursorTarget] call mti_fortify_fnc_getCompositionBudget
  *
  * Public: Yes
  */

@@ -10,7 +10,7 @@
  * Lengths <ARRAY>
  *
  * Example:
- * [_object] call mti_fortify_fortify_fnc_axisLengths;
+ * [_object] call mti_fortify_fnc_axisLengths;
  *
  * Public: Yes
  */

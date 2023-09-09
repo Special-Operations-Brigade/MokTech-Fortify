@@ -1,7 +1,7 @@
 #include "script_component.hpp"
 
 /*
-Function: mti_fortify_fortify_fnc_addPresetActions
+Function: mti_fortify_fnc_addPresetActions
 
 Description:
     Adds child actions to the presets for each object.
@@ -14,7 +14,7 @@ Return Value:
 
 Example:
     (begin example)
-        [...] call mti_fortify_fortify_fnc_addPresetActions;
+        [...] call mti_fortify_fnc_addPresetActions;
     (end)
 
 Author:

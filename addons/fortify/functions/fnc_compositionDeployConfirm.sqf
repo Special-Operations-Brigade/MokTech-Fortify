@@ -16,7 +16,7 @@
  * None
  *
  * Example:
- * [player, wall] call mti_fortify_fortify_fnc_compositionDeployConfirm
+ * [player, wall] call mti_fortify_fnc_compositionDeployConfirm
  *
  * Public: No
  */
